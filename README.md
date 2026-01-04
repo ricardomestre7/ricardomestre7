@@ -1,7 +1,10 @@
 # Cyntreon Global Systems — Executive README (Public, Redacted)
 > Evidence-driven, quantum-inspired systems for health, education, and municipal/planetary governance.  
 > **Privacy-by-design • Auditability • Zero public endpoints • Proprietary kernel**
-
+<!-- KPIs (estáticos, sem endpoints) -->
+<p align="center">
+  <img alt="197 Nodes" src="https://img.shields.io/badge/GlobalOS-197%20Nodes-blue">
+  <img alt="
 ---
 
 ## Table of Contents
